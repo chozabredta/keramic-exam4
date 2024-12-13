@@ -1,0 +1,53 @@
+:root{
+    --text-color: rgba(249, 168, 47, 1);
+    --bg-color: rgba(248, 248, 248, 1);
+    --whit:rgba(255, 255, 255, 1);
+    --gradient: linear-gradient(180deg, #646464 56.7%, rgba(255, 255, 255, 0) 112.8%);
+    --bg-footer: rgba(72, 72, 72, 1);
+    --text: rgba(176, 176, 176, 1);
+    --button: rgba(141, 141, 141, 1);
+    --footer: rgba(95, 95, 95, 1);
+
+
+    
+
+
+
+}
+
+
+::placeholder{
+    font-size: 14px;
+    padding-left: 17px;
+    color: var(--text);
+   
+}
+
+.main{  
+    background: radial-gradient(63.57% 111.48% at 50% 50%, #EBB55F 0%, #977038 100%);
+    
+   
+
+}
+
+.main1{  
+    background: radial-gradient(63.57% 111.48% at 50% 50%, #D3B482 0%, #AC9370 100%);
+    ;
+    
+   
+
+}
+
+.sec{
+    background-image: url('./img/Mask\ Group\ \(1\).png');
+    background-repeat: no-repeat;
+    background-size: cover;
+ 
+}
+
+.sec1{
+    background-image: url(./about.img/Mask\ Group\ \(2\).png);
+ background-repeat: no-repeat;
+    background-size: cover;
+ 
+}
